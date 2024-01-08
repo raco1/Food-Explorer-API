@@ -7,7 +7,7 @@ Esse projeto é o Back-end do Desafio Final da Trila Explorer da plataforma de e
 ## 🔍 Índice
 
 -  <a href="#-aviso">Aviso</a>
--  <a href="#-pre-visualização">Pré-visualização</a>
+-  <a href="#-estrutura-do-site">Estrutura do site</a>
 -  <a href="#-tecnologias">Tecnologias</a>
 -  <a href="#-como-utilizar">Como utilizar</a>
 -  <a href="#-autor">Autor</a>
