@@ -1,7 +1,7 @@
 
 # 🚀 Food Explorer - Trilha Explorer
 
-Esse projeto é o Back-end do Desafio Final da Trila Explorer da plataforma de ensino Rocketseat. Em suma, foi desenvolvido um menu interativo para um restaurante fictício.
+Esse projeto é o Back-end do Desafio Final da Trila Explorer da plataforma de ensino Rocketseat. Em suma, foi desenvolvido um menu interativo para um restaurante fictício. Você pode conferir o resultado da primeira versão aqui: https://restaurantfexplorer.netlify.app
 
 
 ## 🔍 Índice
